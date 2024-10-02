@@ -5,3 +5,4 @@ export default async function conectaNaDb(){
 
     return mongoose.connection;
 }
+
